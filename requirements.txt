@@ -1,0 +1,9 @@
+﻿Arabic-reshaper
+python-bidi
+pillow
+numpy
+pandas 
+matplotlib
+wordcloud
+BeautifulSoup
+requests
